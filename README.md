@@ -24,10 +24,12 @@ Type "sum all values in column B where column C is 'Paid'" and get back perfectl
 
 ## <a name="demo"> **Demo** </a>  
 
-🔗 **Live Site:** [https://formulagenie.vercel.app/](https://formulagenie.vercel.app/)  
+🔗 **Live Site:** [https://formula-genie.vercel.app/](https://formula-genie.vercel.app/)  
 📽️ **Demo Video:** 
 
-[![Demo Video](https://github.com/user-attachments/assets/DEMO_ASSET_ID)](https://github.com/user-attachments/assets/DEMO_ASSET_ID)
+
+https://github.com/user-attachments/assets/b3cb7da1-f610-4aa6-b9be-f0933bc56af1
+
 
 ---
 
